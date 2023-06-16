@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.adityaku97.exposensorpoc"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57c96ddf-a1b9-4378-bc3f-bd23ed101da4"
+      }
+    },
+    "owner": "adityaku97"
   }
 }
