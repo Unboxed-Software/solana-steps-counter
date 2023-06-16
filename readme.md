@@ -2,7 +2,7 @@
 
 ## Setting up development environment
 
-If you are using emulator, go through [android development environment]("https://reactnative.dev/docs/environment-setup?platform=android&os=windows#target-os-1") and [iOS development environment setup]("https://reactnative.dev/docs/environment-setup?platform=ios&os=macos#installing-dependencies") before proceeding.
+If you are using emulator, go through [android development environment](https://reactnative.dev/docs/environment-setup?platform=android&os=windows#target-os-1) and [iOS development environment setup](https://reactnative.dev/docs/environment-setup?platform=ios&os=macos#installing-dependencies) before proceeding.
 
 ## Creating new project
 
@@ -38,6 +38,6 @@ Before we can run our app on devices, here are a couple of necessary steps:
 
     export default function App()...
 
-> For the solana mobile wallet adapter to work with expo, we need to run the app using eas build. Follow this [link]("https://docs.expo.dev/build/setup/") for the eas cli setup and checkout this [repo]("https://github.com/solana-mobile/expo-react-native-mwa-proof-of-concept.git") for more info.
+> For the solana mobile wallet adapter to work with expo, we need to run the app using eas build. Follow this [link](https://docs.expo.dev/build/setup/) for the eas cli setup and checkout this [repo](https://github.com/solana-mobile/expo-react-native-mwa-proof-of-concept.git) for more info.
 
-> Follow this [link]("https://docs.expo.dev/build/setup/#run-a-build") to see how to run a eas build on devices.
+> Follow this [link](https://docs.expo.dev/build/setup/#run-a-build) to see how to run a eas build on devices.
